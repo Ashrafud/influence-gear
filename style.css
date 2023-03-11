@@ -285,6 +285,10 @@ body h3{
 nav .container, main .container{
 	flex-direction: column;
 }
+.influencer{
+		display: flex;
+		flex-direction: column-reverse;
+	}
 
 .navbar,.navbar-content p:last-child{
 	margin-right: 0px;
